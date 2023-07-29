@@ -1,4 +1,5 @@
 # sayho
+by 정화중3 권진우
 aaaaa
 -usb camera connect
 dli@dli-desktop:~$ ifconfig  -> stands for "interface configuration"
